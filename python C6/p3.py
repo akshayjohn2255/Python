@@ -1,5 +1,0 @@
-f = open("C:/Users/student.MCALAB/Desktop/20MCA007/PYTHON 1/BOOK1.csv",'r')
-f_contents = f.readlines()
-list1 = list(f_contents)
-print(list1)
-f.close()
